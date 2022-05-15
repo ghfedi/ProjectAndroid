@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Fedi/Downloads/Restaurant-Management-System-master/Restaurant-Management-System-master/app/src/main/res/layout/admin_activity_add_employee.xml" value="0.18385416666666668" />
+        <entry key="..\:/Users/Fedi/Downloads/Restaurant-Management-System-master/Restaurant-Management-System-master/app/src/main/res/layout/admin_activity_add_item.xml" value="0.18385416666666668" />
+        <entry key="..\:/Users/Fedi/Downloads/Restaurant-Management-System-master/Restaurant-Management-System-master/app/src/main/res/layout/admin_activity_add_menu_item.xml" value="0.18385416666666668" />
+        <entry key="..\:/Users/Fedi/Downloads/Restaurant-Management-System-master/Restaurant-Management-System-master/app/src/main/res/layout/admin_activity_add_table.xml" value="0.18385416666666668" />
+        <entry key="..\:/Users/Fedi/Downloads/Restaurant-Management-System-master/Restaurant-Management-System-master/app/src/main/res/layout/admin_activity_add_tablet.xml" value="0.18385416666666668" />
+        <entry key="..\:/Users/Fedi/Downloads/Restaurant-Management-System-master/Restaurant-Management-System-master/app/src/main/res/layout/admin_activity_admin_menu.xml" value="0.22" />
+        <entry key="..\:/Users/Fedi/Downloads/Restaurant-Management-System-master/Restaurant-Management-System-master/app/src/main/res/layout/admin_activity_home.xml" value="0.22" />
+        <entry key="..\:/Users/Fedi/Downloads/Restaurant-Management-System-master/Restaurant-Management-System-master/app/src/main/res/layout/admin_activity_login.xml" value="0.33" />
+        <entry key="..\:/Users/Fedi/Downloads/Restaurant-Management-System-master/Restaurant-Management-System-master/app/src/main/res/layout/admin_activity_notifications.xml" value="0.1" />
+        <entry key="..\:/Users/Fedi/Downloads/Restaurant-Management-System-master/Restaurant-Management-System-master/app/src/main/res/layout/admin_activity_set_end_of_week.xml" value="0.12407407407407407" />
+        <entry key="..\:/Users/Fedi/Downloads/Restaurant-Management-System-master/Restaurant-Management-System-master/app/src/main/res/layout/admin_activity_updateitem.xml" value="0.12407407407407407" />
+        <entry key="..\:/Users/Fedi/Downloads/Restaurant-Management-System-master/Restaurant-Management-System-master/app/src/main/res/layout/admin_ingredient_row.xml" value="0.12407407407407407" />
+        <entry key="..\:/Users/Fedi/Downloads/Restaurant-Management-System-master/Restaurant-Management-System-master/app/src/main/res/layout/admin_ingredient_row_red.xml" value="0.12407407407407407" />
+        <entry key="..\:/Users/Fedi/Downloads/Restaurant-Management-System-master/Restaurant-Management-System-master/app/src/main/res/layout/admin_ingredients_view.xml" value="0.25" />
+        <entry key="..\:/Users/Fedi/Downloads/Restaurant-Management-System-master/Restaurant-Management-System-master/app/src/main/res/layout/admin_notificationitem.xml" value="0.12407407407407407" />
+        <entry key="..\:/Users/Fedi/Downloads/Restaurant-Management-System-master/Restaurant-Management-System-master/app/src/main/res/layout/hall_activity_manager_interface.xml" value="0.1" />
+        <entry key="..\:/Users/Fedi/Downloads/Restaurant-Management-System-master/Restaurant-Management-System-master/app/src/main/res/layout/hall_activity_ready_to_serve_orders.xml" value="0.1" />
+        <entry key="..\:/Users/Fedi/Downloads/Restaurant-Management-System-master/Restaurant-Management-System-master/app/src/main/res/layout/hall_activity_receive_payment.xml" value="0.1" />
+        <entry key="..\:/Users/Fedi/Downloads/Restaurant-Management-System-master/Restaurant-Management-System-master/app/src/main/res/layout/hall_activity_tracking.xml" value="0.1" />
+        <entry key="..\:/Users/Fedi/Downloads/Restaurant-Management-System-master/Restaurant-Management-System-master/app/src/main/res/layout/kitchen_activity_cooks_list.xml" value="0.33" />
+        <entry key="..\:/Users/Fedi/Downloads/Restaurant-Management-System-master/Restaurant-Management-System-master/app/src/main/res/layout/kitchen_prompts.xml" value="0.1" />
+        <entry key="..\:/Users/Fedi/Downloads/Restaurant-Management-System-master/Restaurant-Management-System-master/app/src/main/res/layout/order_activity_set_quantity.xml" value="0.1" />
+        <entry key="..\:/Users/Fedi/Downloads/Restaurant-Management-System-master/Restaurant-Management-System-master/app/src/main/res/layout/order_activity_time.xml" value="0.1" />
+        <entry key="..\:/Users/Fedi/Downloads/Restaurant-Management-System-master/Restaurant-Management-System-master/app/src/main/res/layout/order_activity_welcome_page.xml" value="0.1" />
+        <entry key="..\:/Users/Fedi/Downloads/Restaurant-Management-System-master/Restaurant-Management-System-master/app/src/main/res/layout/order_cartobjects.xml" value="0.1" />
+        <entry key="..\:/Users/Fedi/Downloads/Restaurant-Management-System-master/Restaurant-Management-System-master/app/src/main/res/layout/order_ingridient.xml" value="0.1" />
+        <entry key="..\:/Users/Fedi/Downloads/Restaurant-Management-System-master/Restaurant-Management-System-master/app/src/main/res/layout/order_item.xml" value="0.1" />
+        <entry key="..\:/Users/Fedi/Downloads/Restaurant-Management-System-master/Restaurant-Management-System-master/app/src/main/res/layout/order_menulist.xml" value="0.1" />
+        <entry key="..\:/Users/Fedi/Downloads/Restaurant-Management-System-master/Restaurant-Management-System-master/app/src/main/res/layout/order_orderconfirmpopup.xml" value="0.1" />
+        <entry key="..\:/Users/Fedi/Downloads/Restaurant-Management-System-master/Restaurant-Management-System-master/app/src/main/res/layout/order_quantityinvalidpopup.xml" value="0.1" />
+        <entry key="..\:/Users/Fedi/Downloads/Restaurant-Management-System-master/Restaurant-Management-System-master/app/src/main/res/layout/reporting_activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/Fedi/Downloads/Restaurant-Management-System-master/Restaurant-Management-System-master/app/src/main/res/menu/options_menu.xml" value="0.16" />
+      </map>
+    </option>
+  </component>
+  <component name="NullableNotNullManager">
+    <option name="myDefaultNullable" value="android.support.annotation.Nullable" />
+    <option name="myDefaultNotNull" value="android.support.annotation.NonNull" />
+    <option name="myNullables">
+      <value>
+        <list size="14">
+          <item index="0" class="java.lang.String" itemvalue="org.jetbrains.annotations.Nullable" />
+          <item index="1" class="java.lang.String" itemvalue="javax.annotation.Nullable" />
+          <item index="2" class="java.lang.String" itemvalue="javax.annotation.CheckForNull" />
+          <item index="3" class="java.lang.String" itemvalue="edu.umd.cs.findbugs.annotations.Nullable" />
+          <item index="4" class="java.lang.String" itemvalue="android.support.annotation.Nullable" />
+          <item index="5" class="java.lang.String" itemvalue="androidx.annotation.Nullable" />
+          <item index="6" class="java.lang.String" itemvalue="androidx.annotation.RecentlyNullable" />
+          <item index="7" class="java.lang.String" itemvalue="com.android.annotations.Nullable" />
+          <item index="8" class="java.lang.String" itemvalue="org.checkerframework.checker.nullness.qual.Nullable" />
+          <item index="9" class="java.lang.String" itemvalue="org.checkerframework.checker.nullness.compatqual.NullableDecl" />
+          <item index="10" class="java.lang.String" itemvalue="org.checkerframework.checker.nullness.compatqual.NullableType" />
+          <item index="11" class="java.lang.String" itemvalue="org.eclipse.jdt.annotation.Nullable" />
+          <item index="12" class="java.lang.String" itemvalue="io.reactivex.annotations.Nullable" />
+          <item index="13" class="java.lang.String" itemvalue="io.reactivex.rxjava3.annotations.Nullable" />
+        </list>
+      </value>
+    </option>
+    <option name="myNotNulls">
+      <value>
+        <list size="14">
+          <item index="0" class="java.lang.String" itemvalue="org.jetbrains.annotations.NotNull" />
+          <item index="1" class="java.lang.String" itemvalue="javax.annotation.Nonnull" />
+          <item index="2" class="java.lang.String" itemvalue="edu.umd.cs.findbugs.annotations.NonNull" />
+          <item index="3" class="java.lang.String" itemvalue="android.support.annotation.NonNull" />
+          <item index="4" class="java.lang.String" itemvalue="androidx.annotation.NonNull" />
+          <item index="5" class="java.lang.String" itemvalue="androidx.annotation.RecentlyNonNull" />
+          <item index="6" class="java.lang.String" itemvalue="com.android.annotations.NonNull" />
+          <item index="7" class="java.lang.String" itemvalue="org.checkerframework.checker.nullness.qual.NonNull" />
+          <item index="8" class="java.lang.String" itemvalue="org.checkerframework.checker.nullness.compatqual.NonNullDecl" />
+          <item index="9" class="java.lang.String" itemvalue="org.checkerframework.checker.nullness.compatqual.NonNullType" />
+          <item index="10" class="java.lang.String" itemvalue="org.eclipse.jdt.annotation.NonNull" />
+          <item index="11" class="java.lang.String" itemvalue="io.reactivex.annotations.NonNull" />
+          <item index="12" class="java.lang.String" itemvalue="io.reactivex.rxjava3.annotations.NonNull" />
+          <item index="13" class="java.lang.String" itemvalue="lombok.NonNull" />
+        </list>
+      </value>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
